@@ -4,7 +4,7 @@ using MbUnit.Framework;
 
 namespace EdgeWiki.Parser.Tests.Runs
 {
-	class TextWikiRunTests
+	public class TextWikiRunTests
 	{
 		[Test]
 		public void Basic()
