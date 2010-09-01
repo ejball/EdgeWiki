@@ -1,0 +1,6 @@
+*.gallio
+*.user
+*.suo
+_ReSharper.*
+bin
+obj
